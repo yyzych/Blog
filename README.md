@@ -1,6 +1,6 @@
 更新：
+- [使用n模块更新管理node](https://github.com/yyzych/Blog/issues/13)
 - [前端开发面试题](https://github.com/yyzych/Blog/issues/8)
-- [百度ife任务总结－task4](https://github.com/yyzych/Blog/issues/11)
 
 ---
 
