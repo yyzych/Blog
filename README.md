@@ -1,6 +1,6 @@
 更新：
-- [使用n模块更新管理node](https://github.com/yyzych/Blog/issues/13)
-- [前端开发面试题](https://github.com/yyzych/Blog/issues/8)
+- [MVM 维基百科－摘录](https://github.com/yyzych/Blog/issues/14)
+- [前端MVM, MVP, MVVM及Backbone和Knockout的模式](https://github.com/yyzych/Blog/issues/15)
 
 ---
 
